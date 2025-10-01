@@ -1,8 +1,6 @@
 package org.DAO;
 
 import org.entidades.Clientes;
-import org.DAO.Conexao;
-import org.entidades.Itens;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

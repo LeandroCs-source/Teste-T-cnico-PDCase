@@ -1,10 +1,8 @@
 package org.DAO;
 
-import org.entidades.Clientes;
 import org.entidades.Itens;
 
 import java.sql.*;
-import java.time.format.DateTimeParseException;
 import java.util.ArrayList;
 import java.util.List;
 

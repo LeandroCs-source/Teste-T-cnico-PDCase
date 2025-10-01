@@ -11,9 +11,6 @@ public class Itens {
     private String classificacaoEtaria;
     private int quantidadeCopias;
 
-    public Itens() {
-    }
-
     public Itens(int id, String titulo, String categoria, LocalDate dataLancamento, String classificacaoEtaria, int quantidadeCopias) {
         this.id = id;
         this.titulo = titulo;

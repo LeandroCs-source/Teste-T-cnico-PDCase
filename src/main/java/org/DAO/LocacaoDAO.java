@@ -1,6 +1,4 @@
 package org.DAO;
-
-import org.entidades.Itens;
 import org.entidades.Locacoes;
 
 import java.sql.*;

@@ -12,9 +12,6 @@ public class Locacoes {
     private LocalDate dataDevolucao;
     private String status;
 
-    public Locacoes() {
-
-    }
 
     public Locacoes(int clienteId, int itemId, LocalDate dataLocacao) {
         this.clienteId = clienteId;
