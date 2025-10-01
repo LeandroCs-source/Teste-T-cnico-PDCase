@@ -30,13 +30,6 @@ public class Locacoes {
         this.status = status;
     }
 
-    public int getId() {
-        return id;
-    }
-
-    public void setId(int id) {
-        this.id = id;
-    }
 
     public int getClienteId() {
         return clienteId;

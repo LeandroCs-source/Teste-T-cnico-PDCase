@@ -28,13 +28,6 @@ public class Itens {
         this.classificacaoEtaria = classificacaoEtaria;
     }
 
-    public int getId() {
-        return id;
-    }
-
-    public void setId(int id) {
-        this.id = id;
-    }
 
     public String getTitulo() {
         return titulo;
